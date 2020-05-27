@@ -1,18 +1,90 @@
-# Learning_track
+# Learning Track
+
 ## Technologies:
 
-| Name       | Details |
-| :--------- | :------ |
-| C          |         |
-| C++        |         |
-| Python     |         |
-| --         | --      |
-| Django     |         |
-| React      |         |
-| HTML       |         |
-| CSS        |         |
-| --         | --      |
-| SQL        |         |
-| PostgreSQL |         |
-| MongoDB    |         |
+| Name                 | Details          | Level |
+| :------------------- | :--------------- | :---- |
+| C                    |                  |       |
+| C++                  |                  |       |
+| --                   |                  |       |
+| Python               |                  |       |
+| Django               |                  |       |
+| --                   | --               |       |
+| React                | State Management |       |
+| Nodejs               |                  |       |
+| HTML                 |                  |       |
+| CSS                  |                  |       |
+| --                   | --               |       |
+| Database Design      |                  |       |
+| SQL                  |                  |       |
+| PostgreSQL           |                  |       |
+| MongoDB              |                  |       |
+| --                   |                  |       |
+| Blockchain           |                  |       |
+| Hyperledger          |                  |       |
+| Cryptocurrency       |                  |       |
+| Ethereum             |                  |       |
+| Tron                 |                  |       |
+| --                   |                  |       |
+| Android Studio       |                  |       |
+| Java                 |                  |       |
+| Kotlin               |                  |       |
+| --                   |                  |       |
+| OOP                  |                  |       |
+| Design Pattern       |                  |       |
+| MVVM                 |                  |       |
+| Big Data             |                  |       |
+| Data structure       |                  |       |
+| Information Security |                  |       |
+| --                   |                  |       |
+| Cloud Computing      |                  |       |
+| AWS Lambda           |                  |       |
+| S3                   |                  |       |
+| --                   |                  |       |
+| Git                  |                  |       |
 
+---
+
+## Technology Stack
+
+#### Python Web
+
+| Name        | Status | Project |
+| :---------- | :----- | :------ |
+| Django      |        |         |
+| Flask       |        |         |
+| --          |        |         |
+| AWS         |        |         |
+| Lambda      |        |         |
+| EC2         |        |         |
+| S3          |        |         |
+| API Gateway |        |         |
+| --          |        |         |
+| Docker      |        |         |
+| --          |        |         |
+| SQL         |        |         |
+| DynamoDB    |        |         |
+| MngoDB      |        |         |
+
+---
+
+---
+
+#### React Frontend
+
+| Name       | Status | Project |
+| :--------- | :----- | :------ |
+| React      |        |         |
+| --         |        |         |
+| Context    |        |         |
+| Hooks      |        |         |
+| Redux      |        |         |
+| Webpack    |        |         |
+| --         |        |         |
+| GraphQL    |        |         |
+| Relay      |        |         |
+| --         |        |         |
+| REST API   |        |         |
+| --         |        |         |
+| Node.js    |        |         |
+| Express.js |        |         |
