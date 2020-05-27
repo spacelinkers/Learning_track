@@ -62,11 +62,22 @@
 | --          |        |         |
 | Docker      |        |         |
 | --          |        |         |
-| SQL         |        |         |
 | DynamoDB    |        |         |
 | MngoDB      |        |         |
 
 ---
+
+#### Python Web & React Frontend
+
+| Name       | Status | Project |
+| :--------- | :----- | :------ |
+| SQL        |        |         |
+| PostgreSQL |        |         |
+| --         |        |         |
+| OAuth      |        |         |
+| Auth0      |        |         |
+| Token      |        |         |
+| JWT        |        |         |
 
 ---
 
@@ -76,14 +87,13 @@
 | :--------- | :----- | :------ |
 | React      |        |         |
 | --         |        |         |
+| Redux      |        |         |
 | Context    |        |         |
 | Hooks      |        |         |
-| Redux      |        |         |
 | Webpack    |        |         |
 | --         |        |         |
 | GraphQL    |        |         |
 | Relay      |        |         |
-| --         |        |         |
 | REST API   |        |         |
 | --         |        |         |
 | Node.js    |        |         |
